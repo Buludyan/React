@@ -3,11 +3,11 @@ import './App.css';
 
 function App() {
   return (
-    <section>
+    <div className="App">
         <input/>
         <button/>
-        asd
-    </section>
+      asd
+    </div>
   );
 }
 
